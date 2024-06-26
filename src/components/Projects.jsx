@@ -34,7 +34,7 @@ const Projects = () => {
             title: 'Canteen Management System (LAMP Stack)',
             description: 'Developed a web-based canteen management system using the LAMP stack, implementing CRUD operations and user authentication.',
             linkgithub: 'https://github.com/lakhman108/Canteen.git',
-            linklive:'https://canteen-sek5.onrender.com'
+            linklive:''
         },
         {
             imgSrc: "Mealminder.png",
